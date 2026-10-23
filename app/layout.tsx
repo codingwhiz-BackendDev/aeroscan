@@ -3,8 +3,8 @@ import type { Metadata, Viewport } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'SignalDecode — Wi-Fi QR Decoder',
-  description: 'Decode Wi-Fi QR codes privately in your browser. No uploads, no tracking.',
+  title: 'AeroScan — Private Wi-Fi QR Decoder',
+  description: 'Reveal Wi-Fi QR code details privately in your browser. No uploads, no tracking.',
   generator: 'v0.app',
   icons: {
     icon: [
